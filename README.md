@@ -1,21 +1,26 @@
-# element-plus-vite-starter
+# Learnings
 
-> A starter kit for Element Plus with Vite
+Tanker rundt "hvordan kunne vi bygget løsningen,
+gitt alt vi vet i dag?"
 
-<img width="800" alt="Element Plus" src="https://user-images.githubusercontent.com/10731096/97282764-0726eb80-187a-11eb-9658-6dc98ccb8f8d.png">
+
+## Komponentbibliotek - Forenkling
+
+- Ulement UI Plus
+- Enklere utseende
+- Slipper å rense/"kode ned" Material Design
 
 
-## Project setup
-```
-npm install
-```
+## Vue 3 - Effektivisering
 
-### Compiles and hot-reloads for development
-```
-npm run dev
-```
+- Mye enklere kode
+- Kutter ut masse "boilerplate"
+- Massivt mye raske byggvertøy: Vite (vs webpack)
+  - Gir raskere utviklerloop: fra tanke til kode osv.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+
+## State og Actions - 
+
+- Hvordan holde orden på tilstand?
+- Sentralisert vs spredt
+- Hva med handlinger og sideeffekter?
