@@ -17,6 +17,7 @@ gitt alt vi vet i dag?"
 - Kutter ut masse "boilerplate"
 - Massivt mye raske byggvertøy: Vite (vs webpack)
   - Gir raskere utviklerloop: fra tanke til kode osv.
+- npm i vue-class-component@next
 
 
 ## State og Actions - 
