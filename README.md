@@ -25,3 +25,7 @@ gitt alt vi vet i dag?"
 - Hvordan holde orden på tilstand?
 - Sentralisert vs spredt
 - Hva med handlinger og sideeffekter?
+
+## Deploy
+
+https://weather-grid.netlify.app/
